@@ -17,6 +17,16 @@ N es el número total de letras en el alfabeto (en el alfabeto latino 26).
 
 Pf es la posición original de la letra en el alfabeto latino.
 
+Otra forma de verlo es poniendo la posicion original en negativo cuyo modulo es el numero de caracteres del idioma en cuestion. Hay que tener en cuenta que las posiciones empiezan desde el 0 al 25; por ejemplo:
+
+En el lenguaje latino que hemos usado anteriormente, si usamos la letra C le corresponde el 2 y 25-2=23 
+
+A pesar de su simplicidad esto se puede realizar de otro modo. Calculemos -n en la aritmética del reloj de 25 horas
+-2 modulo 25
+
+
+
+
 ## METODO
 
 La lógica detrás de este método es bastante directa:

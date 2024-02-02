@@ -13,7 +13,7 @@ Dada una letra en el alfabeto latino, puedes encontrar su equivalente en Atbash 
 ​
 Pi  es la posición de la letra en el alfabeto Atbash.
 
-N es el número total de letras en el alfabeto.
+N es el número total de letras en el alfabeto (en el alfabeto latino 26).
 
 Pf es la posición original de la letra en el alfabeto latino.
 
